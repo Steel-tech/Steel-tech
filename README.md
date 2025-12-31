@@ -1,32 +1,35 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Victor%20Garcia&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Founder,%20StructuPath.AI%20|%20Owner,%20Flawless%20Steel%20Welding&descAlignY=52&descSize=18"/>
+<!-- CYBERPUNK MATRIX HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00FF41&height=200&section=header&text=VICTOR%20GARCIA&fontSize=50&fontColor=00FF41&animation=twinkling&fontAlignY=35&desc=》%20FOUNDER%20//%20STRUCTUPATH.AI%20》%20OWNER%20//%20FLAWLESS%20STEEL%20WELDING%20《&descAlignY=55&descSize=16&descColor=00D9FF"/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=I+run+a+steel+fabrication+company.+%F0%9F%8F%97%EF%B8%8F;I+build+AI+to+solve+real+problems.+%F0%9F%A4%96;Now+I'm+helping+others+do+the+same.+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<!-- Matrix Typing Animation -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3E+I+run+a+steel+fabrication+company_;&gt;+I+build+AI+to+solve+real+problems_;%3E+Now+I'm+helping+others+do+the+same_" alt="Typing SVG" /></a>
 
-<!-- Animated Badges -->
+<!-- Cyberpunk Badges -->
 <br/><br/>
 <a href="https://structupath.ai">
-  <img src="https://img.shields.io/badge/🚀_StructuPath.ai-4F46E5?style=for-the-badge&logoColor=white&labelColor=4F46E5" alt="StructuPath.ai"/>
+  <img src="https://img.shields.io/badge/⟨⟨_STRUCTUPATH.AI_⟩⟩-00FF41?style=for-the-badge&logoColor=black&labelColor=000000" alt="StructuPath.ai"/>
 </a>
-<img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Steel-tech&color=success"/>
 <a href="https://linkedin.com/in/victor-garcia-2b038555">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/⟨_LINKEDIN_⟩-00D9FF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000"/>
 </a>
-<img src="https://img.shields.io/badge/Denver,_CO-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white"/>
+<a href="https://github.com/Steel-tech">
+  <img src="https://img.shields.io/badge/⟨_GITHUB_⟩-FF0080?style=for-the-badge&logo=github&logoColor=black&labelColor=000000"/>
+</a>
+<img src="https://img.shields.io/badge/⟨_DENVER,_CO_⟩-00FF41?style=for-the-badge&logo=google-maps&logoColor=black&labelColor=000000"/>
 
 <br/><br/>
 
-<!-- Profile Views & Activity -->
-<img src="https://komarev.com/ghpvc/?username=Steel-tech&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/Steel-tech?style=for-the-badge&color=blue&label=FOLLOWERS"/>
+<!-- System Status Indicators -->
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=flat-square&labelColor=000000"/>
+<img src="https://img.shields.io/badge/PROJECTS-80+-00D9FF?style=flat-square&labelColor=000000"/>
+<img src="https://img.shields.io/badge/MODE-BUILD-FF0080?style=flat-square&labelColor=000000"/>
 
 </div>
 
-<!-- Animated Wave Divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
+<!-- Neon Line Divider -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF41,100:00D9FF&height=3"/>
 
 ## About Me
 
@@ -44,60 +47,61 @@ I'm also building a **DGX AI Lab** to power custom AI infrastructure — serious
 
 ---
 
-## ⚡ Technical Arsenal
+## ⟨ TECHNICAL_ARSENAL ⟩
 
 <div align="center">
 
-<!-- Animated Tech Stack Header -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=1&section=header"/>
+<!-- Neon Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF41,100:000000&height=2"/>
 
-### 💻 Languages & Frameworks
+<br/>
+
+### ⟨ LANGUAGES // FRAMEWORKS ⟩
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,python,js,nextjs,react,fastapi,nodejs&theme=dark&perline=7" />
 </p>
 
-### 🤖 AI & Machine Learning
+### ⟨ AI // MACHINE_LEARNING ⟩
 
 <p>
-  <img src="https://img.shields.io/badge/Claude_AI-9B59B6?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=1a1a2e"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1a2e"/>
-  <img src="https://img.shields.io/badge/crewAI-FF4500?style=for-the-badge&logo=ai&logoColor=white&labelColor=1a1a2e"/>
-  <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logo=chainlink&logoColor=white&labelColor=1a1a2e"/>
-  <img src="https://img.shields.io/badge/RAG_Systems-8B5CF6?style=for-the-badge&logo=vector&logoColor=white&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/CLAUDE_AI-00FF41?style=for-the-badge&logo=anthropic&logoColor=black&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/OPENAI-00D9FF?style=for-the-badge&logo=openai&logoColor=black&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/CREWAI-FF0080?style=for-the-badge&logo=ai&logoColor=black&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/LANGCHAIN-00FF41?style=for-the-badge&logo=chainlink&logoColor=black&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/RAG_SYS-00D9FF?style=for-the-badge&logo=vector&logoColor=black&labelColor=000000"/>
 </p>
 
-### 🗄️ Databases & Infrastructure
+### ⟨ DATABASES // INFRASTRUCTURE ⟩
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,prisma,supabase,redis,docker&theme=dark&perline=5" />
 </p>
 
-### 🛠️ Tools & Platforms
+### ⟨ TOOLS // PLATFORMS ⟩
 
 <p>
   <img src="https://skillicons.dev/icons?i=vercel,tailwind,git,github,vscode&theme=dark&perline=5" />
 </p>
 
-<!-- Activity Graph -->
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Steel-tech&custom_title=Victor's%20Contribution%20Graph&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area_color=6366F1&area=true&hide_border=true" width="100%"/>
-
 </div>
 
 ---
 
-## 🔥 Featured Projects
+## ⟨ FEATURED_PROJECTS ⟩
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Battle-Tested+in+Production;Built+to+Survive%2C+Not+Impress;Real+Problems%2C+Real+Solutions" alt="Typing SVG" /></a>
+
+<!-- Glitch Text Effect -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=24&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&repeat=true&width=600&height=40&lines=%3E+BATTLE_TESTED.exe;%3E+PRODUCTION_READY.sys;%3E+REAL_PROBLEMS.solved" alt="Typing SVG" /></a>
+
 </div>
 
 <br/>
 
-### 🏢 Production Apps @ Flawless Steel Welding
+### ⟨ PRODUCTION_APPS @ FLAWLESS_STEEL_WELDING ⟩
 
-> **These apps run my company every day. If they break, I lose money. That's the difference.**
+> **`> SYSTEM_CRITICAL: These apps run my company daily. If they break, I lose money.`**
 
 <table>
 <tr>
@@ -170,7 +174,7 @@ Transform RFQs into winning bids in minutes, not days. The AI brain behind our e
 </tr>
 </table>
 
-### 🤖 AI & Automation Platforms
+### ⟨ AI // AUTOMATION_PLATFORMS ⟩
 
 <table>
 <tr>
@@ -242,165 +246,170 @@ Full-stack platform for orchestrating multiple Claude Code agents at scale. Powe
 
 ---
 
-## Domain Expertise
+## ⟨ DOMAIN_EXPERTISE ⟩
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/steel-i-beam.png" width="48"/>
-<br><strong>Steel Fabrication</strong>
-<br><sub>AISC compliance, estimation, bidding workflows</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/construction.png" width="48"/>
-<br><strong>Construction</strong>
-<br><sub>Project management, documentation, QMS</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/robot.png" width="48"/>
-<br><strong>AI/ML Systems</strong>
-<br><sub>Multi-agent orchestration, RAG, LLM integration</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/real-estate.png" width="48"/>
-<br><strong>Real Estate Tech</strong>
-<br><sub>Property automation, video generation</sub>
-</td>
-</tr>
-</table>
+```
+┌────────────────────┬────────────────────┬────────────────────┬────────────────────┐
+│   STEEL_FAB        │   CONSTRUCTION     │   AI/ML_SYSTEMS    │   TRADES_TECH      │
+├────────────────────┼────────────────────┼────────────────────┼────────────────────┤
+│   AISC compliance  │   Project mgmt     │   Multi-agent      │   Small business   │
+│   Estimation       │   Documentation    │   orchestration    │   automation       │
+│   Bidding flows    │   QMS systems      │   RAG / LLM        │   Workflow tools   │
+└────────────────────┴────────────────────┴────────────────────┴────────────────────┘
+```
 
 ---
 
-## 📊 GitHub Stats
+## ⟨ CURRENT_OPERATIONS ⟩
 
-<div align="center">
-
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Steel-tech&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-
-<br/>
-
-<!-- Stats Cards Row -->
-<p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Steel-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF&ring_color=6366F1" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Steel-tech&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1" />
-</p>
-
-<!-- Top Languages -->
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steel-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" />
-
-<br/><br/>
-
-<!-- Contribution Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Steel-tech/Steel-tech/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Steel-tech/Steel-tech/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Steel-tech/Steel-tech/output/github-snake-dark.svg" />
-</picture>
-
-</div>
+```
+> ACTIVE_PROCESSES:
+├── [STRUCTUPATH.AI]     :: Deploying AI solutions for contractors & small businesses
+├── [DGX_AI_LAB]         :: Building compute infrastructure for AI Operating System
+├── [FLAWLESS_STEEL]     :: Running production apps (Onboard, Hawkeye, HR, QMS)
+├── [MULTI_AGENT_SYS]    :: Orchestration platforms for construction automation
+└── [CONNECT]            :: Seeking builders ready to implement AI
+```
 
 ---
 
-## What I'm Working On
-
-- 🚀 **StructuPath.AI:** Helping contractors and small businesses implement AI that actually works
-- 🔭 **DGX AI Lab:** Building serious compute infrastructure for custom AI solutions
-- 🏗️ **Flawless Steel Welding:** Running production apps (Onboard, Hawkeye, HR, QMS) that power daily operations
-- 🤖 **Multi-Agent Systems:** Developing orchestration platforms for construction industry automation
-- 💬 **Ask me about:** Building AI for blue-collar industries, running a fab shop, or what it takes to be a founder-developer
-- 🤝 **Looking to connect with:** Contractors, fabricators, and business owners ready to implement AI
-
----
-
-## 🚀 StructuPath.AI — AI Solutions for Real Businesses
+## ⟨ STRUCTUPATH.AI ⟩
 
 <div align="center">
 
-[![Visit StructuPath.ai](https://img.shields.io/badge/🚀_Visit_StructuPath.ai-4F46E5?style=for-the-badge&logoColor=white)](https://structupath.ai)
-[![Book a Call](https://img.shields.io/badge/📞_Book_a_Call-22C55E?style=for-the-badge&logoColor=white)](https://structupath.ai)
-
-</div>
-
-### Tired of AI hype that doesn't apply to YOUR business?
-
-I get it. You're a contractor, fabricator, or small business owner. You've heard AI can transform your operations, but every solution you find is built for tech companies or enterprises with massive budgets.
-
-**That's why I built StructuPath.AI.**
-
-I've spent years building AI systems for my own steel fabrication company — systems that actually work in the real world, with real employees, on real job sites. Now I'm bringing that same battle-tested approach to businesses like yours.
-
-### What We Do
-
-| Service | What You Get |
-|---------|--------------|
-| 🎯 **AI Strategy Sessions** | Cut through the hype. We'll identify exactly where AI can save you time and money — no buzzwords, just ROI. |
-| ⚡ **Custom AI Solutions** | Built specifically for your industry. Not generic software — tools that understand YOUR workflows. |
-| 🤖 **AI Agent Development** | Autonomous systems that handle repetitive tasks so your team can focus on high-value work. |
-| 📚 **Team Training** | Get your crew comfortable with AI tools. Practical training, not academic theory. |
-
-### Who This Is For
-
-- 🏗️ **Contractors & Fabricators** — Bidding, scheduling, safety, documentation
-- 🏢 **Small Business Owners** — HR, operations, customer service automation
-- 🔧 **Trades & Service Businesses** — Quoting, dispatch, inventory management
-
-### The StructuPath Difference
-
-> **"I don't sell software I wouldn't use myself. Every solution I build for clients is based on systems running in production at my own company."**
-
-*Ready to see what AI can actually do for your business?*
-
-<div align="center">
-
-[![Get Started](https://img.shields.io/badge/👉_Get_Started_at_StructuPath.ai-4F46E5?style=for-the-badge&logoColor=white)](https://structupath.ai)
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Animated Section Header -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
-
-<br/>
-
-### 🤝 Let's Build Something Together
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=30&lines=Looking+for+AI+solutions+for+your+business%3F;Want+to+collaborate+on+construction+tech%3F;Ready+to+automate+your+workflows%3F" alt="Typing SVG" /></a>
-
-<br/><br/>
-
-<!-- Contact Buttons with Hover Effects -->
+<!-- Neon CTA Buttons -->
 <a href="https://structupath.ai">
-  <img src="https://img.shields.io/badge/🚀_Visit_StructuPath.ai-4F46E5?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/⟨⟨_ENTER_STRUCTUPATH.AI_⟩⟩-00FF41?style=for-the-badge&logoColor=black&labelColor=000000"/>
+</a>
+<a href="https://structupath.ai">
+  <img src="https://img.shields.io/badge/⟨_BOOK_CONSULTATION_⟩-00D9FF?style=for-the-badge&logoColor=black&labelColor=000000"/>
+</a>
+
+<br/><br/>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=20&duration=2500&pause=800&color=FF0080&center=true&vCenter=true&repeat=true&width=700&height=35&lines=%3E+AI+SOLUTIONS+FOR+THOSE+WHO+BUILD+REAL+THINGS_" alt="Typing SVG" /></a>
+
+</div>
+
+### ⟨ THE_PROBLEM ⟩
+
+You're not a tech company. You're a **builder**. A contractor. A fabricator. A trades business owner. A developer who wants to create software for people who work with their hands.
+
+Every AI solution out there is built for Silicon Valley — not for the shop floor, the job site, or the service truck.
+
+**That changes now.**
+
+### ⟨ THE_SOLUTION ⟩
+
+I run a steel fabrication company. I've built AI systems that handle **real** problems — onboarding crews, tracking safety, managing HR, winning bids. Battle-tested with real money on the line.
+
+Now through **StructuPath.AI**, I'm helping others build the same.
+
+### ⟨ SERVICES.exe ⟩
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│  SERVICE                    │  OUTPUT                                   │
+├─────────────────────────────┼───────────────────────────────────────────┤
+│  AI_STRATEGY_SESSION        │  ROI-focused roadmap, no buzzwords        │
+│  CUSTOM_AI_SOLUTIONS        │  Built for YOUR industry workflows        │
+│  AI_AGENT_DEVELOPMENT       │  Autonomous systems that actually work    │
+│  TEAM_TRAINING              │  Practical skills, not academic theory    │
+│  DEV_PARTNERSHIPS           │  Build AI products for trades together    │
+└─────────────────────────────┴───────────────────────────────────────────┘
+```
+
+### ⟨ TARGET_USERS ⟩
+
+```
+> SCAN COMPLETE. IDEAL CLIENTS IDENTIFIED:
+
+[01] CONTRACTORS & FABRICATORS    → Bidding, scheduling, safety, docs
+[02] SMALL BUSINESS OWNERS        → HR, operations, customer automation
+[03] TRADES & SERVICE BUSINESSES  → Quoting, dispatch, inventory
+[04] DEVELOPERS FOR THE TRADES    → Build AI products for blue-collar industries
+[05] ANYONE WHO BUILDS REAL SHIT  → If you're tired of generic software
+```
+
+### ⟨ DIFFERENTIATOR ⟩
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║  "I DON'T SELL SOFTWARE I WOULDN'T USE MYSELF.                           ║
+║   EVERY SOLUTION IS BASED ON SYSTEMS RUNNING IN PRODUCTION               ║
+║   AT MY OWN COMPANY."                                                    ║
+║                                                          — VICTOR GARCIA ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+<a href="https://structupath.ai">
+  <img src="https://img.shields.io/badge/⟨⟨_INITIALIZE_CONNECTION_⟩⟩-00FF41?style=for-the-badge&logoColor=black&labelColor=000000"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Neon Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF41,50:00D9FF,100:FF0080&height=3"/>
+
+<br/>
+
+## ⟨ ESTABLISH_CONNECTION ⟩
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=18&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&repeat=true&width=600&height=30&lines=%3E+READY_TO_BUILD_SOMETHING_REAL%3F_;%3E+LET'S_CONNECT_AND_EXECUTE_" alt="Typing SVG" /></a>
+
+<br/><br/>
+
+<!-- Cyberpunk Contact Grid -->
+<a href="https://structupath.ai">
+  <img src="https://img.shields.io/badge/⟨⟨_STRUCTUPATH.AI_⟩⟩-00FF41?style=for-the-badge&logoColor=black&labelColor=000000"/>
 </a>
 <a href="https://linkedin.com/in/victor-garcia-2b038555">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/⟨_LINKEDIN_⟩-00D9FF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000"/>
 </a>
 <a href="https://github.com/Steel-tech">
-  <img src="https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/⟨_GITHUB_⟩-FF0080?style=for-the-badge&logo=github&logoColor=black&labelColor=000000"/>
 </a>
 
 <br/><br/>
 
-<!-- Quote Box -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=I%20don't%20build%20software%20to%20impress%20—%20I%20build%20it%20to%20survive.%20Every%20app%20runs%20my%20company.&author=Victor%20Garcia" />
+<!-- Terminal Quote -->
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                                                                              │
+│   > "I DON'T BUILD SOFTWARE TO IMPRESS — I BUILD IT TO SURVIVE."             │
+│   >                                                                          │
+│   > EVERY APP RUNS MY COMPANY.                                               │
+│   >                                                                          │
+│   > — VICTOR_GARCIA.exe                                                      │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+<!-- System Stats -->
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=flat-square&labelColor=000000"/>
+<img src="https://img.shields.io/badge/UPTIME-24/7-00D9FF?style=flat-square&labelColor=000000"/>
+<img src="https://img.shields.io/badge/PROJECTS-80+-FF0080?style=flat-square&labelColor=000000"/>
+<img src="https://komarev.com/ghpvc/?username=Steel-tech&style=flat-square&color=00FF41&label=VISITORS&labelColor=000000"/>
 
 <br/><br/>
 
-<!-- Spotify / Now Playing (optional placeholder) -->
-<!-- You can add: <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem" /> -->
-
-<!-- Final Stats Row -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Steel-tech&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS"/>
-  <img src="https://img.shields.io/github/followers/Steel-tech?style=for-the-badge&color=6366F1&label=FOLLOWERS&logo=github"/>
-  <img src="https://img.shields.io/badge/80+-PROJECTS-success?style=for-the-badge"/>
-</p>
+```
+> SESSION_END
+> THANK_YOU_FOR_VISITING
+> SEE_YOU_IN_THE_MATRIX_
+```
 
 </div>
 
-<!-- Animated Wave Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+<!-- Cyberpunk Wave Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00FF41&height=120&section=footer&animation=twinkling"/>
