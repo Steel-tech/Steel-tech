@@ -10,7 +10,7 @@
 
 <!-- High Contrast Badges -->
 <a href="https://structupath.ai">
-  <img src="https://img.shields.io/badge/STRUCTUPATH.AI-39FF14?style=for-the-badge&logo=robot&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/STRUCTUPATH.AI-F97316?style=for-the-badge&logo=rocket&logoColor=FFFFFF"/>
 </a>
 <a href="https://linkedin.com/in/victor-garcia-2b038555">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
@@ -94,7 +94,7 @@ I'm also building a **DGX AI Lab** to power custom AI infrastructure — serious
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2000&pause=500&color=39FF14&center=true&vCenter=true&repeat=true&width=500&height=35&lines=BATTLE+TESTED+IN+PRODUCTION;BUILT+TO+SURVIVE%2C+NOT+IMPRESS;REAL+PROBLEMS%2C+REAL+SOLUTIONS" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2000&pause=500&color=F97316&center=true&vCenter=true&repeat=true&width=500&height=35&lines=BATTLE+TESTED+IN+PRODUCTION;BUILT+TO+SURVIVE%2C+NOT+IMPRESS;REAL+PROBLEMS%2C+REAL+SOLUTIONS" alt="Typing SVG" /></a>
 
 </div>
 
@@ -277,7 +277,7 @@ Full-stack platform for orchestrating multiple Claude Code agents at scale. Powe
 <div align="center">
 
 <a href="https://structupath.ai">
-  <img src="https://img.shields.io/badge/VISIT%20STRUCTUPATH.AI-39FF14?style=for-the-badge&logo=rocket&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/VISIT%20STRUCTUPATH.AI-F97316?style=for-the-badge&logo=rocket&logoColor=FFFFFF"/>
 </a>
 <a href="https://structupath.ai">
   <img src="https://img.shields.io/badge/BOOK%20A%20CONSULTATION-58A6FF?style=for-the-badge&logo=calendar&logoColor=FFFFFF"/>
@@ -328,7 +328,7 @@ Now through **StructuPath.AI**, I'm helping others build the same.
 <div align="center">
 
 <a href="https://structupath.ai">
-  <img src="https://img.shields.io/badge/GET%20STARTED-39FF14?style=for-the-badge&logo=lightning&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/GET%20STARTED-F97316?style=for-the-badge&logo=lightning&logoColor=FFFFFF"/>
 </a>
 
 </div>
@@ -340,7 +340,7 @@ Now through **StructuPath.AI**, I'm helping others build the same.
 ## Let's Connect
 
 <a href="https://structupath.ai">
-  <img src="https://img.shields.io/badge/STRUCTUPATH.AI-39FF14?style=for-the-badge&logo=robot&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/STRUCTUPATH.AI-F97316?style=for-the-badge&logo=rocket&logoColor=FFFFFF"/>
 </a>
 <a href="https://linkedin.com/in/victor-garcia-2b038555">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
@@ -355,7 +355,7 @@ Now through **StructuPath.AI**, I'm helping others build the same.
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Steel-tech&style=flat-square&color=39FF14&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Steel-tech&style=flat-square&color=F97316&label=Profile+Views)
 
 </div>
 
