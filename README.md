@@ -1,81 +1,162 @@
 <div align="center">
 
-# Victor Garcia
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Victor%20Garcia&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Founder,%20StructuPath.AI%20|%20Owner,%20Flawless%20Steel%20Welding&descAlignY=52&descSize=18"/>
 
-### Full-Stack Developer | AI Engineer | Steel Construction Technologist
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=I+run+a+steel+fabrication+company.+%F0%9F%8F%97%EF%B8%8F;I+build+AI+to+solve+real+problems.+%F0%9F%A4%96;Now+I'm+helping+others+do+the+same.+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-garcia-2b038555)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Steel-tech)
-[![StructuPath.ai](https://img.shields.io/badge/StructuPath.ai-4F46E5?style=for-the-badge&logo=robot&logoColor=white)](https://structupath.ai)
-[![Location](https://img.shields.io/badge/Denver,_CO-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white)](https://github.com/Steel-tech)
+<!-- Animated Badges -->
+<br/><br/>
+<a href="https://structupath.ai">
+  <img src="https://img.shields.io/badge/🚀_StructuPath.ai-4F46E5?style=for-the-badge&logoColor=white&labelColor=4F46E5" alt="StructuPath.ai"/>
+</a>
+<img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Steel-tech&color=success"/>
+<a href="https://linkedin.com/in/victor-garcia-2b038555">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<img src="https://img.shields.io/badge/Denver,_CO-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white"/>
 
-*Building AI-powered solutions that transform traditional industries*
+<br/><br/>
 
----
+<!-- Profile Views & Activity -->
+<img src="https://komarev.com/ghpvc/?username=Steel-tech&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/Steel-tech?style=for-the-badge&color=blue&label=FOLLOWERS"/>
 
 </div>
+
+<!-- Animated Wave Divider -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
 
 ## About Me
 
-I'm a **Full-Stack Developer** and **AI Engineer** based in Denver, CO, specializing in building intelligent systems that bridge the gap between artificial intelligence and real-world industrial applications. With deep expertise in the **steel construction and fabrication industry**, I develop production-ready platforms that automate complex workflows, reduce manual processes, and drive business efficiency.
+I'm the **Founder of [StructuPath.AI](https://structupath.ai)** and **Owner of Flawless Steel Welding**, an AISC-certified steel fabrication company in Denver, CO.
 
-I maintain **80+ active projects** across steel bidding systems, construction management platforms, real estate technology, and multi-agent AI architectures.
+**Here's the difference:** I don't build AI solutions from a laptop in a coffee shop. I build them from the shop floor, the job site, and the office where payroll has to hit every Friday. **Real scars. Real tears. Real solutions.**
+
+At **Flawless Steel Welding**, I've built and deployed production systems for onboarding, safety, HR, bidding, and quality management — because I needed them to run my business. Every app I've built has been battle-tested with real employees, real deadlines, and real money on the line.
+
+Now, through **StructuPath.AI**, I'm bringing that same approach to other businesses. If you're a contractor, fabricator, or small business owner who's tired of generic software that doesn't understand your industry — let's talk.
+
+I'm also building a **DGX AI Lab** to power custom AI infrastructure — serious compute for serious automation.
+
+**80+ active projects** across steel bidding, construction management, HR systems, and multi-agent AI architectures.
 
 ---
 
-## Technical Expertise
+## ⚡ Technical Arsenal
 
 <div align="center">
 
-### Languages & Frameworks
+<!-- Animated Tech Stack Header -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=1&section=header"/>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+### 💻 Languages & Frameworks
 
-### AI & Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,python,js,nextjs,react,fastapi,nodejs&theme=dark&perline=7" />
+</p>
 
-![Claude AI](https://img.shields.io/badge/Claude_AI-9B59B6?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![crewAI](https://img.shields.io/badge/crewAI-FF4500?style=for-the-badge&logo=ai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logo=chainlink&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Systems-8B5CF6?style=for-the-badge&logo=vector&logoColor=white)
+### 🤖 AI & Machine Learning
 
-### Databases & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Claude_AI-9B59B6?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/crewAI-FF4500?style=for-the-badge&logo=ai&logoColor=white&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logo=chainlink&logoColor=white&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/RAG_Systems-8B5CF6?style=for-the-badge&logo=vector&logoColor=white&labelColor=1a1a2e"/>
+</p>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logo=database&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### 🗄️ Databases & Infrastructure
 
-### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,prisma,supabase,redis,docker&theme=dark&perline=5" />
+</p>
 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🛠️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,tailwind,git,github,vscode&theme=dark&perline=5" />
+</p>
+
+<!-- Activity Graph -->
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Steel-tech&custom_title=Victor's%20Contribution%20Graph&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area_color=6366F1&area=true&hide_border=true" width="100%"/>
 
 </div>
 
 ---
 
-## Featured Projects
+## 🔥 Featured Projects
 
-### AI-Powered Industrial Platforms
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Battle-Tested+in+Production;Built+to+Survive%2C+Not+Impress;Real+Problems%2C+Real+Solutions" alt="Typing SVG" /></a>
+</div>
+
+<br/>
+
+### 🏢 Production Apps @ Flawless Steel Welding
+
+> **These apps run my company every day. If they break, I lose money. That's the difference.**
 
 <table>
 <tr>
 <td width="50%">
 
-#### ⚡ SteelMind
-**AI-Powered Steel Bidding Platform**
+#### 🚀 FSW Onboard
+**Employee Onboarding System**
 
-Transform RFQs into winning bids in minutes, not days. Full-stack AI platform that automates the entire steel bidding workflow.
+Get new ironworkers productive from day one. Structured onboarding that covers safety, certifications, equipment, and company procedures — no more chaos on first days.
+
+- 📋 Digital onboarding checklists with progress tracking
+- 🎓 Certification verification & expiration alerts
+- 📱 Mobile-first for field accessibility
+- 🔐 Role-based access (Welder, Fitter, Foreman, Admin)
+- 📊 Completion analytics & bottleneck identification
+
+**Stack:** Next.js 15, Prisma, PostgreSQL, Tailwind
+
+</td>
+<td width="50%">
+
+#### 🦅 Hawkeye
+**Safety Coordinator Platform**
+
+Named for the vigilance required on every job site. Comprehensive safety management that keeps OSHA happy and our crew safe.
+
+- ⚠️ Real-time incident reporting & tracking
+- 📝 Digital JSA (Job Safety Analysis) forms
+- 🔍 Safety inspection checklists with photo documentation
+- 📅 Training schedule & certification tracking
+- 📈 Safety metrics dashboard & trend analysis
+
+**Stack:** Next.js 15, React 19, Prisma, S3, WebSocket
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 👥 FSW HR
+**Human Resources Management**
+
+Everything HR for a steel fabrication shop — from hire to retire. Built for the unique needs of construction workforce management.
+
+- 📄 Digital employee records & document management
+- ⏰ Time tracking integrated with payroll
+- 🏥 Benefits enrollment & PTO management
+- 📊 Crew scheduling & availability tracking
+- 🔔 Automated reminders for cert renewals, reviews
+
+**Stack:** Next.js 15, NextAuth v5, Prisma, PostgreSQL
+
+</td>
+<td width="50%">
+
+#### ⚡ SteelMind
+**AI-Powered Steel Bidding SDK**
+
+Transform RFQs into winning bids in minutes, not days. The AI brain behind our estimating workflow.
 
 - 📧 Auto-detect RFQs from email inbox
 - 📐 Extract quantities from PDF blueprints
@@ -83,118 +164,62 @@ Transform RFQs into winning bids in minutes, not days. Full-stack AI platform th
 - 📊 Generate complete bid proposals
 - 🏗️ Union rates + equipment + labor estimation
 
-**Stack:** FastAPI, Next.js, Claude AI, Python
-
-</td>
-<td width="50%">
-
-#### 🏭 FSW QMS AI System
-**AI-Powered Quality Management System**
-
-AISC-certified QMS transformed with AI for Flawless Steel Welding operations.
-
-- 🔍 Search 8,554+ QMS documents with natural language
-- 🤖 AI-powered answers with source citations
-- 📝 Auto-fill forms using historical data
-- ⚠️ Compliance alerts and deadline tracking
-- 📋 Audit preparation reduced from 2 weeks to 2 hours
-
-**Stack:** Next.js 15, FastAPI, Claude 3.5, ChromaDB, RAG
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 💼 Steel Bidding Platform
-**Enterprise Bidding Automation Suite**
-
-Comprehensive platform for automating steel bidding processes from email analysis to project handover.
-
-- 📧 Automated RFQ identification & processing
-- 📊 Proposal management with version control
-- 💰 Real-time material pricing integration
-- 🤝 Integrated CRM & workflow management
-- 📄 AI-driven project handover documentation
-
-**366+ features** | **6 major epics**
-
-**Stack:** Node.js, Express, PostgreSQL, Prisma, Redis
-
-</td>
-<td width="50%">
-
-#### 🤖 Steel Estimator POC
-**Multi-Agent Estimation System**
-
-5 specialized AI agents working together to estimate steel construction projects.
-
-```
-📐 Drawing Parser → 🔢 Calculator → 💰 Cost Estimator
-                          ↓
-            ✅ QA Validator → 📄 Report Generator
-```
-
-- Autonomous agent coordination
-- PDF blueprint extraction
-- AISC-compliant calculations
-- Automated QA validation
-
-**Stack:** crewAI, Claude, Python, pdfplumber
+**Stack:** Python, FastAPI, Claude AI, pdfplumber
 
 </td>
 </tr>
 </table>
 
-### Real Estate & Construction Technology
+### 🤖 AI & Automation Platforms
 
 <table>
 <tr>
 <td width="50%">
 
-#### 🎥 Pro-Reelty
-**AI Property Video Generator**
+#### 🏭 FSW QMS AI System
+**AI-Powered Quality Management System**
 
-Transform Zillow listings into professional HD videos with AI voice-overs in seconds.
+AISC-certified QMS transformed with AI. Search 8,554+ documents with natural language. Audit prep reduced from 2 weeks to 2 hours.
 
-- 🔗 Input: Zillow URL → Output: HD Video
-- 🎙️ AI-generated voice narration (ElevenLabs)
-- ⚡ ~10 seconds per video generation
-- 📊 Property data extraction automation
+- 🔍 Natural language document search
+- 🤖 AI-powered answers with source citations
+- 📝 Auto-fill forms using historical data
+- ⚠️ Compliance alerts and deadline tracking
 
-**Stack:** Next.js, Prisma, ElevenLabs, FFmpeg
+**Stack:** Next.js 15, FastAPI, Claude 3.5, ChromaDB, RAG
 
 </td>
 <td width="50%">
 
-#### 📋 Iron Task 726
-**Construction Documentation System**
+#### 🎯 Steel Estimating Suite
+**Multi-Agent Estimation System**
 
-Monorepo architecture for construction project management and documentation.
+Three interconnected platforms for steel estimation — from email to bid proposal. 366+ features across 6 major epics.
 
-- 🏗️ Full-stack web + API architecture
-- 📁 Document management & tracking
-- 🔄 Real-time collaboration features
-- 🚀 Automated deployment pipelines
+```
+📧 RFQ Detection → 📐 Blueprint Extraction → 💰 Cost Engine
+                          ↓
+            📊 Proposal Generator → 🤝 CRM Integration
+```
 
-**Stack:** Next.js, Express, TypeScript, Monorepo
+**Stack:** Python, crewAI, Node.js, PostgreSQL, Claude AI
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-#### 👷 Foremans
-**Construction Management Platform**
+#### 📋 Iron Task 726
+**Construction Documentation System**
 
-Modern construction management built on the Queen Claude foundation.
+Built by ironworkers, for ironworkers. Smart tagging, multi-language support, AI-powered reports.
 
-- 🔐 Multi-provider authentication
-- 📊 Project tracking & scheduling
-- 📱 Responsive mobile-first design
-- 🎨 Custom design system
+- 📸 Dual camera capture with auto-organization
+- 🌐 Real-time translation for crew communication
+- 📊 AI-generated progress reports & daily logs
+- 🔐 Role-based access with audit trails
 
-**Stack:** Next.js 15, NextAuth v5, Prisma, Tailwind
+**Stack:** Next.js 14, Fastify, PostgreSQL, WebSocket, MinIO
 
 </td>
 <td width="50%">
@@ -202,7 +227,7 @@ Modern construction management built on the Queen Claude foundation.
 #### 🤖 Multi-Agent Orchestration
 **Production-Ready Agent Platform**
 
-Full-stack platform for orchestrating multiple Claude Code agents at scale.
+Full-stack platform for orchestrating multiple Claude Code agents at scale. Powers the DGX AI Lab.
 
 - 🌐 Real-time WebSocket streaming
 - 🗄️ PostgreSQL event persistence
@@ -246,15 +271,32 @@ Full-stack platform for orchestrating multiple Claude Code agents at scale.
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Steel-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Steel-tech&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Steel-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+<br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Steel-tech&theme=tokyonight&hide_border=true&background=0D1117)
+<!-- Stats Cards Row -->
+<p>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Steel-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF&ring_color=6366F1" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Steel-tech&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1" />
+</p>
+
+<!-- Top Languages -->
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steel-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" />
+
+<br/><br/>
+
+<!-- Contribution Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Steel-tech/Steel-tech/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Steel-tech/Steel-tech/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Steel-tech/Steel-tech/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -262,47 +304,103 @@ Full-stack platform for orchestrating multiple Claude Code agents at scale.
 
 ## What I'm Working On
 
-- 🔭 **Currently:** Building AI-powered automation for steel fabrication industry workflows
-- 🌱 **Learning:** Advanced multi-agent architectures and Claude Agent SDK
-- 💬 **Ask me about:** AI integration for industrial applications, full-stack development, steel industry automation
-- 🤝 **Open to:** Collaborating on AI/ML projects and industrial automation solutions
+- 🚀 **StructuPath.AI:** Helping contractors and small businesses implement AI that actually works
+- 🔭 **DGX AI Lab:** Building serious compute infrastructure for custom AI solutions
+- 🏗️ **Flawless Steel Welding:** Running production apps (Onboard, Hawkeye, HR, QMS) that power daily operations
+- 🤖 **Multi-Agent Systems:** Developing orchestration platforms for construction industry automation
+- 💬 **Ask me about:** Building AI for blue-collar industries, running a fab shop, or what it takes to be a founder-developer
+- 🤝 **Looking to connect with:** Contractors, fabricators, and business owners ready to implement AI
 
 ---
 
-## 🚀 StructuPath.ai
+## 🚀 StructuPath.AI — AI Solutions for Real Businesses
 
 <div align="center">
 
-[![StructuPath.ai](https://img.shields.io/badge/Visit_StructuPath.ai-4F46E5?style=for-the-badge&logo=robot&logoColor=white)](https://structupath.ai)
+[![Visit StructuPath.ai](https://img.shields.io/badge/🚀_Visit_StructuPath.ai-4F46E5?style=for-the-badge&logoColor=white)](https://structupath.ai)
+[![Book a Call](https://img.shields.io/badge/📞_Book_a_Call-22C55E?style=for-the-badge&logoColor=white)](https://structupath.ai)
 
 </div>
 
-**Helping businesses harness the power of AI.**
+### Tired of AI hype that doesn't apply to YOUR business?
 
-StructuPath.ai is my company dedicated to helping **small businesses, contractors, and entrepreneurs** integrate AI into their operations. Whether you're just getting started with AI or looking to automate complex workflows, we provide:
+I get it. You're a contractor, fabricator, or small business owner. You've heard AI can transform your operations, but every solution you find is built for tech companies or enterprises with massive budgets.
 
-- 🤖 **AI Strategy Consulting** — Figure out where AI can make the biggest impact in your business
-- ⚡ **Custom AI Solutions** — Built specifically for your industry and workflows
-- 📚 **Training & Education** — Get your team up to speed on AI tools and best practices
-- 🔧 **Implementation Support** — From proof-of-concept to production deployment
+**That's why I built StructuPath.AI.**
 
-*AI shouldn't be complicated. Let's make it work for your business.*
+I've spent years building AI systems for my own steel fabrication company — systems that actually work in the real world, with real employees, on real job sites. Now I'm bringing that same battle-tested approach to businesses like yours.
+
+### What We Do
+
+| Service | What You Get |
+|---------|--------------|
+| 🎯 **AI Strategy Sessions** | Cut through the hype. We'll identify exactly where AI can save you time and money — no buzzwords, just ROI. |
+| ⚡ **Custom AI Solutions** | Built specifically for your industry. Not generic software — tools that understand YOUR workflows. |
+| 🤖 **AI Agent Development** | Autonomous systems that handle repetitive tasks so your team can focus on high-value work. |
+| 📚 **Team Training** | Get your crew comfortable with AI tools. Practical training, not academic theory. |
+
+### Who This Is For
+
+- 🏗️ **Contractors & Fabricators** — Bidding, scheduling, safety, documentation
+- 🏢 **Small Business Owners** — HR, operations, customer service automation
+- 🔧 **Trades & Service Businesses** — Quoting, dispatch, inventory management
+
+### The StructuPath Difference
+
+> **"I don't sell software I wouldn't use myself. Every solution I build for clients is based on systems running in production at my own company."**
+
+*Ready to see what AI can actually do for your business?*
+
+<div align="center">
+
+[![Get Started](https://img.shields.io/badge/👉_Get_Started_at_StructuPath.ai-4F46E5?style=for-the-badge&logoColor=white)](https://structupath.ai)
+
+</div>
 
 ---
 
 <div align="center">
 
-### Let's Connect
+<!-- Animated Section Header -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
 
-I'm always interested in discussing AI applications in traditional industries, full-stack development, or potential collaborations.
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-garcia-2b038555)
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+### 🤝 Let's Build Something Together
 
----
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=30&lines=Looking+for+AI+solutions+for+your+business%3F;Want+to+collaborate+on+construction+tech%3F;Ready+to+automate+your+workflows%3F" alt="Typing SVG" /></a>
 
-*"Transforming traditional industries with intelligent automation"*
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Steel-tech&color=blueviolet&style=flat-square&label=Profile+Views)
+<!-- Contact Buttons with Hover Effects -->
+<a href="https://structupath.ai">
+  <img src="https://img.shields.io/badge/🚀_Visit_StructuPath.ai-4F46E5?style=for-the-badge&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/victor-garcia-2b038555">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Steel-tech">
+  <img src="https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<!-- Quote Box -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=I%20don't%20build%20software%20to%20impress%20—%20I%20build%20it%20to%20survive.%20Every%20app%20runs%20my%20company.&author=Victor%20Garcia" />
+
+<br/><br/>
+
+<!-- Spotify / Now Playing (optional placeholder) -->
+<!-- You can add: <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem" /> -->
+
+<!-- Final Stats Row -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Steel-tech&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/Steel-tech?style=for-the-badge&color=6366F1&label=FOLLOWERS&logo=github"/>
+  <img src="https://img.shields.io/badge/80+-PROJECTS-success?style=for-the-badge"/>
+</p>
 
 </div>
+
+<!-- Animated Wave Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
