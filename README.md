@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-garcia-2b038555)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Steel-tech)
+[![StructuPath.ai](https://img.shields.io/badge/StructuPath.ai-4F46E5?style=for-the-badge&logo=robot&logoColor=white)](https://structupath.ai)
 [![Location](https://img.shields.io/badge/Denver,_CO-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white)](https://github.com/Steel-tech)
 
 *Building AI-powered solutions that transform traditional industries*
@@ -265,6 +266,27 @@ Full-stack platform for orchestrating multiple Claude Code agents at scale.
 - 🌱 **Learning:** Advanced multi-agent architectures and Claude Agent SDK
 - 💬 **Ask me about:** AI integration for industrial applications, full-stack development, steel industry automation
 - 🤝 **Open to:** Collaborating on AI/ML projects and industrial automation solutions
+
+---
+
+## 🚀 StructuPath.ai
+
+<div align="center">
+
+[![StructuPath.ai](https://img.shields.io/badge/Visit_StructuPath.ai-4F46E5?style=for-the-badge&logo=robot&logoColor=white)](https://structupath.ai)
+
+</div>
+
+**Helping businesses harness the power of AI.**
+
+StructuPath.ai is my company dedicated to helping **small businesses, contractors, and entrepreneurs** integrate AI into their operations. Whether you're just getting started with AI or looking to automate complex workflows, we provide:
+
+- 🤖 **AI Strategy Consulting** — Figure out where AI can make the biggest impact in your business
+- ⚡ **Custom AI Solutions** — Built specifically for your industry and workflows
+- 📚 **Training & Education** — Get your team up to speed on AI tools and best practices
+- 🔧 **Implementation Support** — From proof-of-concept to production deployment
+
+*AI shouldn't be complicated. Let's make it work for your business.*
 
 ---
 
