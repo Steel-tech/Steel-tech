@@ -52,6 +52,7 @@ I'm also building a **DGX AI Lab** to power custom AI infrastructure — serious
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js%2015-000000?style=flat-square&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vue%203-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
 </p>
@@ -64,6 +65,18 @@ I'm also building a **DGX AI Lab** to power custom AI infrastructure — serious
   <img src="https://img.shields.io/badge/crewAI-FF4500?style=flat-square&logo=ai&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAG%20Systems-7C3AED?style=flat-square&logo=buffer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
+</p>
+
+**Local AI & Infrastructure**
+
+<p>
+  <img src="https://img.shields.io/badge/NVIDIA%20DGX-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CUDA%2012-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vLLM-4B32C3?style=flat-square&logo=v&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Local%20LLMs-FF6B6B?style=flat-square&logo=meta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 </p>
 
 **Databases & Infrastructure**
@@ -240,6 +253,42 @@ Full-stack platform for orchestrating multiple Claude Code agents at scale. Powe
 - 📊 Comprehensive observability
 
 `Python` `PostgreSQL` `Claude Agent SDK`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🖥️ DGX AI Lab
+**On-Premise AI Infrastructure**
+
+Enterprise-grade AI without cloud dependency. Private, fast, unlimited. Running serious compute for serious automation.
+
+- 🔥 NVIDIA DGX Station for local LLM hosting
+- 🦙 Ollama for rapid model deployment & switching
+- 🔐 Air-gapped AI for sensitive business data
+- ⚡ Sub-100ms inference for real-time apps
+- 💰 Zero API costs at scale — run unlimited queries
+- 🧠 70B+ parameter models running locally
+
+`NVIDIA DGX` `Ollama` `CUDA 12` `vLLM` `Local LLMs` `Linux`
+
+</td>
+<td width="50%">
+
+#### 🎨 Vue 3 Template Builders
+**Dynamic Form & Document Systems**
+
+Visual builders for construction documentation. Drag-and-drop interfaces that generate production-ready forms and reports.
+
+- 🧩 Drag-and-drop component architecture
+- 📋 Dynamic form generation from schemas
+- 🔄 Real-time preview with hot reload
+- 📤 Export to PDF, print, or integrate via API
+- 🎯 Type-safe with full TypeScript support
+- ⚡ Composition API + Pinia state management
+
+`Vue 3` `TypeScript` `Composition API` `Pinia` `Tailwind`
 
 </td>
 </tr>
