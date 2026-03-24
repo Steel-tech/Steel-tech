@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=200&section=header&text=VICTOR%20GARCIA&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=30&desc=AI%20Infrastructure%20Architect%20%E2%80%A2%20Steel%20Industry%20Automation%20%E2%80%A2%20DevOps&descAlignY=52&descSize=18&descColor=58A6FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=200&section=header&text=VICTOR%20GARCIA&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=30&desc=Steel%20Business%20Owner%20%E2%80%A2%20Subject%20Matter%20Expert%20%E2%80%A2%20Self-Taught%20Builder&descAlignY=52&descSize=18&descColor=58A6FF"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -52,7 +52,7 @@
 
 ```yaml
 name: Victor Garcia
-role: AI Infrastructure Architect & Steel Industry Automation
+role: Steel Business Owner | Subject Matter Expert | Self-Taught Builder
 location: Denver, CO
 companies:
   - name: StructuPath.AI
