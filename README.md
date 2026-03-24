@@ -1,14 +1,23 @@
 <div align="center">
 
-<!-- CLEAN PROFESSIONAL HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=VICTOR%20GARCIA&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Founder%20•%20StructuPath.AI%20%20%7C%20%20Owner%20•%20Flawless%20Steel%20Welding&descAlignY=55&descSize=18&descColor=58A6FF"/>
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=200&section=header&text=VICTOR%20GARCIA&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=30&desc=AI%20Infrastructure%20Architect%20%E2%80%A2%20Steel%20Industry%20Automation%20%E2%80%A2%20DevOps&descAlignY=52&descSize=18&descColor=58A6FF"/>
 
-<!-- Clean Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=60&lines=I+run+a+steel+fabrication+company;I+build+AI+to+solve+real+problems;Now+I'm+helping+others+do+the+same" alt="Typing SVG" /></a>
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=238636&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%8F%AD+Building+Production+AI+for+the+Trades+Since+2020;%F0%9F%A4%96+Multi-Agent+Systems+%7C+Claude+Agent+SDK;%E2%9A%A1+30%2B+Active+Repos+%7C+Real+Systems%2C+Real+Money" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<!-- High Contrast Badges -->
+<!-- Status Badges -->
+<img src="https://img.shields.io/badge/STATUS-SHIPPING%20DAILY-238636?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/STACK-CLAUDE%20AGENT%20SDK-7C3AED?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/DOMAIN-STEEL%20%2F%20CONSTRUCTION-F97316?style=for-the-badge&labelColor=0d1117"/>
+
+<br/><br/>
+
+<!-- Social Links -->
 <a href="https://structupath.ai">
   <img src="https://img.shields.io/badge/STRUCTUPATH.AI-F97316?style=for-the-badge&logo=rocket&logoColor=FFFFFF"/>
 </a>
@@ -16,377 +25,615 @@
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
 <a href="https://github.com/Steel-tech">
-  <img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
-<img src="https://img.shields.io/badge/DENVER%2C%20CO-FF3366?style=for-the-badge&logo=google-maps&logoColor=FFFFFF"/>
 
 </div>
 
 <br/>
 
-## About Me
-
-I'm the **Founder of [StructuPath.AI](https://structupath.ai)** and **Owner of Flawless Steel Welding**, an AISC-certified steel fabrication company in Denver, CO.
-
-**Here's the difference:** I don't build AI solutions from a laptop in a coffee shop. I build them from the shop floor, the job site, and the office where payroll has to hit every Friday. **Real scars. Real tears. Real solutions.**
-
-At **Flawless Steel Welding**, I've built and deployed production systems for onboarding, safety, HR, bidding, and quality management — because I needed them to run my business. Every app I've built has been battle-tested with real employees, real deadlines, and real money on the line.
-
-Now, through **StructuPath.AI**, I'm bringing that same approach to other businesses. If you're a contractor, fabricator, or small business owner who's tired of generic software that doesn't understand your industry — let's talk.
-
-I'm also building a **DGX AI Lab** to power custom AI infrastructure — serious compute for serious automation.
-
-**80+ active projects** across steel bidding, construction management, HR systems, and multi-agent AI architectures.
-
----
-
-## Technical Stack
-
+<!-- Quick Stats Bar -->
 <div align="center">
-
-**Languages & Frameworks**
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js%2015-000000?style=flat-square&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Vue%203-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-</p>
-
-**AI & Machine Learning**
-
-<p>
-  <img src="https://img.shields.io/badge/Claude%20AI-191919?style=flat-square&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/crewAI-FF4500?style=flat-square&logo=ai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG%20Systems-7C3AED?style=flat-square&logo=buffer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
-</p>
-
-**Local AI & Infrastructure**
-
-<p>
-  <img src="https://img.shields.io/badge/NVIDIA%20DGX-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CUDA%2012-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vLLM-4B32C3?style=flat-square&logo=v&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Local%20LLMs-FF6B6B?style=flat-square&logo=meta&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-</p>
-
-**Databases & Infrastructure**
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-</p>
-
-**Tools & Platforms**
-
-<p>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-</p>
-
+  <table>
+    <tr>
+      <td align="center"><b>30+</b><br/><sub>Active Repos</sub></td>
+      <td align="center"><b>7+</b><br/><sub>AI Agent Systems</sub></td>
+      <td align="center"><b>8,554+</b><br/><sub>Documents Indexed</sub></td>
+      <td align="center"><b>3</b><br/><sub>Chrome Extensions</sub></td>
+      <td align="center"><b>5+</b><br/><sub>Production Apps</sub></td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## Featured Projects
+## `> whoami`
+
+```yaml
+name: Victor Garcia
+role: AI Infrastructure Architect & Steel Industry Automation
+location: Denver, CO
+companies:
+  - name: StructuPath.AI
+    role: Founder
+    focus: AI Solutions for Construction & Trades
+  - name: Flawless Steel Welding
+    role: Owner
+    certification: AISC-Certified Steel Fabrication
+
+philosophy: |
+  I don't build AI from a laptop in a coffee shop.
+  I build it from the shop floor, the job site, and the office where payroll has to hit every Friday.
+  Real scars. Real tears. Real solutions.
+
+current_focus:
+  - SteelCFO: AI-powered financial command center for steel contractors
+  - IronForge: AI wizard helping ironworkers start contracting businesses
+  - Steel Pulse: Structural steel estimating platform (Turborepo monorepo)
+  - SteelMind v2: Next-gen multi-agent steel bidding system
+  - DGX AI Lab: On-premise AI infrastructure (NVIDIA DGX)
+```
+
+---
+
+## `> tech_stack --verbose`
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2000&pause=500&color=F97316&center=true&vCenter=true&repeat=true&width=500&height=35&lines=BATTLE+TESTED+IN+PRODUCTION;BUILT+TO+SURVIVE%2C+NOT+IMPRESS;REAL+PROBLEMS%2C+REAL+SOLUTIONS" alt="Typing SVG" /></a>
+<!-- Animated Skill Icons -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,typescript,js,react,nextjs,vue,nodejs,fastapi&theme=dark&perline=8" />
+</a>
+
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,redis,postgres,sqlite,supabase&theme=dark&perline=8" />
+</a>
+
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,aws,cloudflare,vscode,neovim&theme=dark&perline=8" />
+</a>
 
 </div>
 
 <br/>
 
-### Production Apps @ Flawless Steel Welding
+<details>
+<summary><b>🤖 AI & Machine Learning Stack</b></summary>
+<br/>
+<div align="center">
 
-> **These apps run my company every day. If they break, I lose money. That's the difference.**
+| Technology | Usage | Status |
+|:---:|:---:|:---:|
+| ![Claude](https://img.shields.io/badge/Claude%20AI-191919?style=flat-square&logo=anthropic&logoColor=white) | Primary LLM (Opus 4 / Sonnet 4) | `production` |
+| ![Claude SDK](https://img.shields.io/badge/Claude%20Agent%20SDK-191919?style=flat-square&logo=anthropic&logoColor=white) | Multi-Agent Orchestration | `production` |
+| ![SAFLA](https://img.shields.io/badge/SAFLA-7C3AED?style=flat-square&logo=brain&logoColor=white) | Neural Memory System | `production` |
+| ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square&logo=databricks&logoColor=white) | RAG Systems | `production` |
+| ![sqlite-vec](https://img.shields.io/badge/sqlite--vec-003B57?style=flat-square&logo=sqlite&logoColor=white) | Vector Embeddings | `production` |
+| ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) | Local LLM Hosting | `production` |
+| ![vLLM](https://img.shields.io/badge/vLLM-4B32C3?style=flat-square&logo=v&logoColor=white) | High-Performance Inference | `production` |
+| ![MCP](https://img.shields.io/badge/MCP-58A6FF?style=flat-square&logo=plug&logoColor=white) | Model Context Protocol Tools | `production` |
 
-<table>
-<tr>
-<td width="50%">
+</div>
+</details>
 
-#### 🚀 FSW Onboard
-**Employee Onboarding System**
+<details>
+<summary><b>🏗️ Infrastructure & DevOps</b></summary>
+<br/>
+<div align="center">
 
-Get new ironworkers productive from day one. Structured onboarding that covers safety, certifications, equipment, and company procedures — no more chaos on first days.
+| Technology | Usage | Status |
+|:---:|:---:|:---:|
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | Containerization | `production` |
+| ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | Orchestration | `staging` |
+| ![NVIDIA](https://img.shields.io/badge/NVIDIA%20DGX-76B900?style=flat-square&logo=nvidia&logoColor=white) | GPU Infrastructure | `production` |
+| ![CUDA](https://img.shields.io/badge/CUDA%2012-76B900?style=flat-square&logo=nvidia&logoColor=white) | GPU Computing | `production` |
+| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | Server OS | `production` |
+| ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) | Reverse Proxy | `production` |
+| ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) | CI/CD | `production` |
+| ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white) | Monorepo Build System | `production` |
 
-- 📋 Digital onboarding checklists with progress tracking
-- 🎓 Certification verification & expiration alerts
-- 📱 Mobile-first for field accessibility
-- 🔐 Role-based access (Welder, Fitter, Foreman, Admin)
-- 📊 Completion analytics & bottleneck identification
+</div>
+</details>
 
-`Next.js 15` `Prisma` `PostgreSQL` `Tailwind`
+<details>
+<summary><b>💾 Databases & Storage</b></summary>
+<br/>
+<div align="center">
 
-</td>
-<td width="50%">
+| Technology | Usage | Status |
+|:---:|:---:|:---:|
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | Primary Database | `production` |
+| ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) | BaaS Platform | `production` |
+| ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) | Caching & Queues | `production` |
+| ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) | Embedded Database | `production` |
+| ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) | ORM | `production` |
+| ![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white) | Object Storage | `production` |
 
-#### 🦅 Hawkeye
-**Safety Coordinator Platform**
-
-Named for the vigilance required on every job site. Comprehensive safety management that keeps OSHA happy and our crew safe.
-
-- ⚠️ Real-time incident reporting & tracking
-- 📝 Digital JSA (Job Safety Analysis) forms
-- 🔍 Safety inspection checklists with photo documentation
-- 📅 Training schedule & certification tracking
-- 📈 Safety metrics dashboard & trend analysis
-
-`Next.js 15` `React 19` `Prisma` `S3` `WebSocket`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 👥 FSW HR
-**Human Resources Management**
-
-Everything HR for a steel fabrication shop — from hire to retire. Built for the unique needs of construction workforce management.
-
-- 📄 Digital employee records & document management
-- ⏰ Time tracking integrated with payroll
-- 🏥 Benefits enrollment & PTO management
-- 📊 Crew scheduling & availability tracking
-- 🔔 Automated reminders for cert renewals, reviews
-
-`Next.js 15` `NextAuth v5` `Prisma` `PostgreSQL`
-
-</td>
-<td width="50%">
-
-#### ⚡ SteelMind
-**AI-Powered Steel Bidding SDK**
-
-Transform RFQs into winning bids in minutes, not days. The AI brain behind our estimating workflow.
-
-- 📧 Auto-detect RFQs from email inbox
-- 📐 Extract quantities from PDF blueprints
-- 💰 AISC-compliant cost calculations
-- 📊 Generate complete bid proposals
-- 🏗️ Union rates + equipment + labor estimation
-
-`Python` `FastAPI` `Claude AI` `pdfplumber`
-
-</td>
-</tr>
-</table>
-
-### AI & Automation Platforms
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🏭 FSW QMS AI System
-**AI-Powered Quality Management System**
-
-AISC-certified QMS transformed with AI. Search 8,554+ documents with natural language. Audit prep reduced from 2 weeks to 2 hours.
-
-- 🔍 Natural language document search
-- 🤖 AI-powered answers with source citations
-- 📝 Auto-fill forms using historical data
-- ⚠️ Compliance alerts and deadline tracking
-
-`Next.js 15` `FastAPI` `Claude 3.5` `ChromaDB` `RAG`
-
-</td>
-<td width="50%">
-
-#### 🎯 Steel Estimating Suite
-**Multi-Agent Estimation System**
-
-Three interconnected platforms for steel estimation — from email to bid proposal. 366+ features across 6 major epics.
-
-```
-📧 RFQ Detection → 📐 Blueprint Extraction → 💰 Cost Engine
-                          ↓
-            📊 Proposal Generator → 🤝 CRM Integration
-```
-
-`Python` `crewAI` `Node.js` `PostgreSQL` `Claude AI`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 📋 Iron Task 726
-**Construction Documentation System**
-
-Built by ironworkers, for ironworkers. Smart tagging, multi-language support, AI-powered reports.
-
-- 📸 Dual camera capture with auto-organization
-- 🌐 Real-time translation for crew communication
-- 📊 AI-generated progress reports & daily logs
-- 🔐 Role-based access with audit trails
-
-`Next.js 14` `Fastify` `PostgreSQL` `WebSocket` `MinIO`
-
-</td>
-<td width="50%">
-
-#### 🤖 Multi-Agent Orchestration
-**Production-Ready Agent Platform**
-
-Full-stack platform for orchestrating multiple Claude Code agents at scale. Powers the DGX AI Lab.
-
-- 🌐 Real-time WebSocket streaming
-- 🗄️ PostgreSQL event persistence
-- 💰 Automatic cost tracking per agent
-- 📊 Comprehensive observability
-
-`Python` `PostgreSQL` `Claude Agent SDK`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 🖥️ DGX AI Lab
-**On-Premise AI Infrastructure**
-
-Enterprise-grade AI without cloud dependency. Private, fast, unlimited. Running serious compute for serious automation.
-
-- 🔥 NVIDIA DGX Station for local LLM hosting
-- 🦙 Ollama for rapid model deployment & switching
-- 🔐 Air-gapped AI for sensitive business data
-- ⚡ Sub-100ms inference for real-time apps
-- 💰 Zero API costs at scale — run unlimited queries
-- 🧠 70B+ parameter models running locally
-
-`NVIDIA DGX` `Ollama` `CUDA 12` `vLLM` `Local LLMs` `Linux`
-
-</td>
-<td width="50%">
-
-#### 🎨 Vue 3 Template Builders
-**Dynamic Form & Document Systems**
-
-Visual builders for construction documentation. Drag-and-drop interfaces that generate production-ready forms and reports.
-
-- 🧩 Drag-and-drop component architecture
-- 📋 Dynamic form generation from schemas
-- 🔄 Real-time preview with hot reload
-- 📤 Export to PDF, print, or integrate via API
-- 🎯 Type-safe with full TypeScript support
-- ⚡ Composition API + Pinia state management
-
-`Vue 3` `TypeScript` `Composition API` `Pinia` `Tailwind`
-
-</td>
-</tr>
-</table>
+</div>
+</details>
 
 ---
 
-## Domain Expertise
+## `> cat infrastructure_diagram.txt`
+
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                          PRODUCTION INFRASTRUCTURE                           │
+├──────────────────────────────────────────────────────────────────────────────┤
+│                                                                              │
+│  ┌────────────┐   ┌────────────┐   ┌────────────┐   ┌────────────┐         │
+│  │  CLIENTS   │   │  VERCEL    │   │  FLY.IO    │   │  DGX LAB   │         │
+│  │  (Web/Ext) │──▶│ (Next.js)  │──▶│ (API/AI)   │──▶│ (GPU/LLM)  │         │
+│  └────────────┘   └────────────┘   └────────────┘   └────────────┘         │
+│        │                │                │                │                  │
+│        ▼                ▼                ▼                ▼                  │
+│  ┌──────────────────────────────────────────────────────────────────┐       │
+│  │                   CLAUDE AGENT SDK LAYER                         │       │
+│  │  ┌──────────┐  ┌──────────┐  ┌──────────┐  ┌──────────┐       │       │
+│  │  │ SteelCFO │  │SteelMind │  │  Steel   │  │ IronForge│       │       │
+│  │  │  Agents  │  │ v2 Agents│  │  Pulse   │  │  Wizard  │       │       │
+│  │  └──────────┘  └──────────┘  └──────────┘  └──────────┘       │       │
+│  └──────────────────────────────────────────────────────────────────┘       │
+│        │                │                │                │                  │
+│        ▼                ▼                ▼                ▼                  │
+│  ┌────────────┐   ┌────────────┐   ┌────────────┐   ┌────────────┐         │
+│  │ PostgreSQL │   │  SQLite +  │   │   Redis    │   │  ChromaDB  │         │
+│  │ (Primary)  │   │ sqlite-vec │   │  (Cache)   │   │   (RAG)    │         │
+│  └────────────┘   └────────────┘   └────────────┘   └────────────┘         │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `> ls -la ./projects/`
 
 <div align="center">
 
-| Steel Fabrication | Construction | AI/ML Systems | Trades Tech |
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=500&color=238636&center=true&vCenter=true&repeat=true&width=600&height=30&lines=%E2%9C%93+BATTLE+TESTED+IN+PRODUCTION;%E2%9C%93+REAL+MONEY+ON+THE+LINE;%E2%9C%93+IF+IT+BREAKS%2C+I+LOSE+MONEY" alt="Typing SVG" />
+</a>
+
+</div>
+
+<br/>
+
+### 🤖 AI Agent Platforms
+
+<details open>
+<summary><b>Click to expand/collapse</b></summary>
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### <img src="https://img.shields.io/badge/-STEELCFO-58A6FF?style=flat-square"/> AI Financial Command Center
+
+> AI-powered CFO for steel contractors — job costing, cash flow forecasting, AR/AP management
+
+**Features:**
+```
+Dashboard:     Real-time financial overview
+AI Chat:       Natural language financial queries
+Job Costing:   Per-project P&L tracking
+Cash Flow:     Predictive forecasting
+AR/AP:         Automated tracking & alerts
+Status:        🟢 ACTIVE DEVELOPMENT
+```
+
+**Capabilities:**
+- `[x]` Anthropic Claude AI integration
+- `[x]` NextAuth v5 authentication
+- `[x]` Interactive Recharts dashboards
+- `[x]` Prisma + PostgreSQL persistence
+
+**Stack:** `Next.js 15` `Prisma` `Anthropic SDK` `Recharts`
+
+</td>
+<td width="50%" valign="top">
+
+#### <img src="https://img.shields.io/badge/-STEELMIND%20v2-F97316?style=flat-square"/> Multi-Agent Steel Bidding
+
+> Next-gen 7-agent system for steel estimation with drawing analysis
+
+**Agent Architecture:**
+```yaml
+agents:
+  - RFQ_Detector: Email & document parsing
+  - Blueprint_Analyzer: Vision AI for drawings
+  - Takeoff_Engine: Quantity extraction
+  - Pricing_Agent: Cost calculation
+  - Proposal_Writer: Document generation
+  - CRM_Sync: Data integration
+  - QA_Validator: Accuracy checks
+```
+
+**Capabilities:**
+- `[x]` Vision AI for blueprint analysis
+- `[x]` Multi-agent pipeline (ADWS)
+- `[x]` AISC-compliant calculations
+- `[x]` Docker containerized deployment
+
+**Stack:** `Python` `FastAPI` `Next.js 15` `Docker`
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### <img src="https://img.shields.io/badge/-IRONFORGE-238636?style=flat-square"/> Ironworker Business Wizard
+
+> AI-powered wizard helping ironworkers start contracting businesses in all 50 US states
+
+**Features:**
+```
+Wizard:        Step-by-step business setup
+AI Guidance:   State-specific requirements
+Licensing:     Per-state compliance info
+Templates:     Business documents & forms
+Status:        🟢 ACTIVE DEVELOPMENT
+```
+
+**Capabilities:**
+- `[x]` Anthropic Claude AI guidance
+- `[x]` 50-state regulatory database
+- `[x]` shadcn/ui components
+- `[x]` Hardened for open source
+
+**Stack:** `Next.js` `Anthropic SDK` `Base UI` `Tailwind`
+
+</td>
+<td width="50%" valign="top">
+
+#### <img src="https://img.shields.io/badge/-STEEL%20PULSE-DC382D?style=flat-square"/> Estimating Platform
+
+> Structural steel estimating platform — a StructuPath.AI product
+
+**Architecture:**
+```
+┌─────────────────────────────────┐
+│     Turborepo Monorepo (pnpm)   │
+├─────────────────────────────────┤
+│  apps/web    │    apps/api      │
+├─────────────────────────────────┤
+│  Document Intelligence Pipeline │
+├─────────────────────────────────┤
+│  Bid Generation & Export Engine │
+└─────────────────────────────────┘
+```
+
+**Capabilities:**
+- `[x]` Document intelligence & parsing
+- `[x]` Bid generation pipeline
+- `[x]` Monorepo with shared packages
+- `[x]` TypeScript end-to-end
+
+**Stack:** `Turborepo` `TypeScript` `pnpm`
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### <img src="https://img.shields.io/badge/-SAFLA-7C3AED?style=flat-square"/> Neural Memory Infrastructure
+
+> Self-Aware Feedback Loop Algorithm — persistent memory for AI agents
+
+**Performance Metrics:**
+```
+Memory Types:   Episodic | Semantic | Procedural
+MCP Tools:      14 production tools
+Auth:           JWT authentication
+Dashboard:      Real-time TUI
+Status:         🟢 PRODUCTION
+```
+
+**Capabilities:**
+- `[x]` Hybrid memory architecture
+- `[x]` Claude Code MCP integration
+- `[x]` Real-time TUI dashboard
+- `[x]` Deployed on Fly.io
+
+**Stack:** `Python` `FastAPI` `sqlite-vec` `MCP`
+
+</td>
+<td width="50%" valign="top">
+
+#### <img src="https://img.shields.io/badge/-DGX%20LAB-76B900?style=flat-square"/> On-Premise AI Infrastructure
+
+> Enterprise-grade AI without cloud dependency
+
+**Hardware Specs:**
+```
+Platform:       NVIDIA DGX Station
+CUDA:           12.x
+Models:         70B+ parameters
+Inference:      <100ms latency
+Cost:           $0 per query
+```
+
+**Capabilities:**
+- `[x]` Air-gapped operation
+- `[x]` Ollama model management
+- `[x]` vLLM high-performance serving
+- `[x]` Unlimited local inference
+
+**Stack:** `NVIDIA DGX` `CUDA` `Ollama` `vLLM` `Linux`
+
+</td>
+</tr>
+</table>
+
+</details>
+
+---
+
+### 🏭 Production Apps @ Flawless Steel Welding
+
+<details>
+<summary><b>Click to expand — Apps running my company daily</b></summary>
+<br/>
+
+> **If these break, I lose money. That's the standard.**
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### <img src="https://img.shields.io/badge/-FSW%20QMS-7C3AED?style=flat-square"/> Quality Management System
+
+```diff
++ 8,554+ documents indexed
++ Natural language search (RAG)
++ AI-powered answers with citations
++ Auto-fill from historical data
++ AISC compliance tracking
+```
+
+**Stack:** `Next.js 15` `FastAPI` `ChromaDB` `RAG`
+
+</td>
+<td width="50%" valign="top">
+
+#### <img src="https://img.shields.io/badge/-FSW%20ONBOARD-58A6FF?style=flat-square"/> Employee Onboarding
+
+```diff
++ Digital onboarding checklists
++ Certification verification
++ Mobile-first field access
++ Role-based permissions
++ Completion analytics
+```
+
+**Stack:** `Next.js 15` `Prisma` `PostgreSQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### <img src="https://img.shields.io/badge/-HAWKEYE-DC382D?style=flat-square"/> Safety Coordinator
+
+```diff
++ Real-time incident reporting
++ Digital JSA forms
++ Photo documentation
++ Training schedule tracking
++ Safety metrics dashboard
+```
+
+**Stack:** `Next.js 15` `React 19` `S3` `WebSocket`
+
+</td>
+<td width="50%" valign="top">
+
+#### <img src="https://img.shields.io/badge/-FSW%20HR-4FC08D?style=flat-square"/> Human Resources
+
+```diff
++ Employee records management
++ Time tracking + payroll
++ Benefits & PTO management
++ Crew scheduling
++ Automated cert reminders
+```
+
+**Stack:** `Next.js 15` `NextAuth v5` `Prisma`
+
+</td>
+</tr>
+</table>
+
+</details>
+
+---
+
+### 🛠️ Tools & Extensions
+
+<details>
+<summary><b>Click to expand — Chrome Extensions, Desktop Tools & More</b></summary>
+<br/>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+#### <img src="https://img.shields.io/badge/-BID%20EXTRACTOR-191919?style=flat-square"/> Chrome Extension
+
+Matrix-themed bid extraction with priority scoring. Pulls RFQ data from bid platforms like SmartBid.
+
+**Stack:** `TypeScript` `Chrome Extension` `Jest`
+
+</td>
+<td width="33%" valign="top">
+
+#### <img src="https://img.shields.io/badge/-BLUEPRINT%20PICKER-0EA5E9?style=flat-square"/> PDF Blueprint Viewer
+
+PDF blueprint viewer with thumbnail caching, page selection, and MuPDF-powered rendering.
+
+**Stack:** `Next.js` `MuPDF` `pdf-lib` `Tailwind`
+
+</td>
+<td width="33%" valign="top">
+
+#### <img src="https://img.shields.io/badge/-STEEL%20TAKEOFF-F59E0B?style=flat-square"/> Desktop Estimation
+
+Local-first steel takeoff with PDF extraction, automated quantity takeoffs, and cost estimation.
+
+**Stack:** `Python` `Flet` `pdfplumber` `SQLite`
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+#### <img src="https://img.shields.io/badge/-FSW%20CALCULATOR-4FC08D?style=flat-square"/> Chrome Extension
+
+Steel measurement calculator extension built with React and the WXT framework.
+
+**Stack:** `React` `WXT` `Chrome Extension`
+
+</td>
+<td width="33%" valign="top">
+
+#### <img src="https://img.shields.io/badge/-SNEAKY%20RAT-DC382D?style=flat-square"/> Chrome Extension
+
+Copy HTML elements with computed styles for LLM context. Extracts clean markup for AI prompts.
+
+**Stack:** `React` `Vite` `crxjs` `Chrome Extension`
+
+</td>
+<td width="33%" valign="top">
+
+#### <img src="https://img.shields.io/badge/-REMOTE%20AGENTS-7C3AED?style=flat-square"/> Agentic Coding
+
+Remote control of Claude Code agents via Telegram and GitHub. Full observability and cost tracking.
+
+**Stack:** `Node.js` `Claude Agent SDK` `Telegram`
+
+</td>
+</tr>
+</table>
+
+</details>
+
+---
+
+## `> htop --domains`
+
+<div align="center">
+
+| Steel Fabrication | Construction | AI Agent Systems | DevOps |
 |:---:|:---:|:---:|:---:|
-| AISC Compliance | Project Management | Multi-Agent Orchestration | Small Business Automation |
-| Cost Estimation | Documentation & QMS | RAG & LLM Integration | Workflow Tools |
-| Bidding Workflows | Safety & Compliance | Agent Development | Industry-Specific Software |
+| ![AISC](https://img.shields.io/badge/AISC-Certified-238636?style=flat-square) | ![PM](https://img.shields.io/badge/Project-Management-58A6FF?style=flat-square) | ![Agents](https://img.shields.io/badge/Multi--Agent-Orchestration-7C3AED?style=flat-square) | ![Infra](https://img.shields.io/badge/GPU-Infrastructure-76B900?style=flat-square) |
+| Cost Estimation & Bidding | Quality Management & QMS | Claude Agent SDK | On-Premise GPU (DGX) |
+| Takeoff & Blueprint Analysis | Safety & Compliance | MCP Tool Development | CI/CD & Containers |
 
 </div>
 
 ---
 
-## Current Focus
+## `> systemctl status current-focus`
 
-| Area | Status |
-|------|--------|
-| **StructuPath.AI** | Deploying AI solutions for contractors & small businesses |
-| **DGX AI Lab** | Building compute infrastructure for AI Operating System |
-| **Flawless Steel Welding** | Running production apps (Onboard, Hawkeye, HR, QMS) |
-| **Multi-Agent Systems** | Orchestration platforms for construction automation |
+```bash
+● current-focus.service - Active Development Priorities
+   Loaded: loaded (/etc/systemd/system/current-focus.service; enabled)
+   Active: active (running) since 2020; 6 years ago
+
+   ├─ steelcfo.service       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ AI CFO Platform  [ACTIVE]
+   ├─ ironforge.service       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ Ironworker AI    [ACTIVE]
+   ├─ steel-pulse.service     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ Estimating SaaS  [ACTIVE]
+   ├─ steelmind-v2.service    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ Multi-Agent Bids [ACTIVE]
+   ├─ structupath.service     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ AI Consulting    [PRODUCTION]
+   ├─ dgx-lab.service         ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ Local LLMs       [PRODUCTION]
+   └─ fsw-apps.service        ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ Daily Ops        [PRODUCTION]
+```
 
 ---
 
-## StructuPath.AI
+## `> cat ./structupath/README.md`
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/STRUCTUPATH.AI-F97316?style=for-the-badge&logo=rocket&logoColor=FFFFFF"/>
+
+### AI Solutions for Those Who Build Real Things
+
+<br/>
+
 <a href="https://structupath.ai">
-  <img src="https://img.shields.io/badge/VISIT%20STRUCTUPATH.AI-F97316?style=for-the-badge&logo=rocket&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/VISIT%20WEBSITE-0d1117?style=for-the-badge&logo=safari&logoColor=F97316"/>
 </a>
 <a href="https://structupath.ai">
-  <img src="https://img.shields.io/badge/BOOK%20A%20CONSULTATION-58A6FF?style=for-the-badge&logo=calendar&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/BOOK%20CONSULTATION-0d1117?style=for-the-badge&logo=googlecalendar&logoColor=58A6FF"/>
 </a>
-
-<br/><br/>
-
-**AI Solutions for Those Who Build Real Things**
 
 </div>
 
-### The Problem
+<br/>
 
-You're not a tech company. You're a **builder**. A contractor. A fabricator. A trades business owner. A developer who wants to create software for people who work with their hands.
+```yaml
+problem: |
+  You're not a tech company. You're a builder.
+  Every AI solution is built for Silicon Valley — not the shop floor.
 
-Every AI solution out there is built for Silicon Valley — not for the shop floor, the job site, or the service truck.
+solution: |
+  I run a steel fabrication company.
+  I've built AI systems that handle real problems.
+  Battle-tested with real money on the line.
 
-**That changes now.**
+services:
+  - AI Strategy Sessions: ROI-focused roadmap, no buzzwords
+  - Custom AI Solutions: Built for YOUR industry workflows
+  - AI Agent Development: Autonomous systems that actually work
+  - Team Training: Practical skills, not academic theory
+  - Dev Partnerships: Build AI products for trades together
 
-### The Solution
-
-I run a steel fabrication company. I've built AI systems that handle **real** problems — onboarding crews, tracking safety, managing HR, winning bids. Battle-tested with real money on the line.
-
-Now through **StructuPath.AI**, I'm helping others build the same.
-
-### Services
-
-| Service | What You Get |
-|---------|-------------|
-| **AI Strategy Sessions** | ROI-focused roadmap, no buzzwords |
-| **Custom AI Solutions** | Built for YOUR industry workflows |
-| **AI Agent Development** | Autonomous systems that actually work |
-| **Team Training** | Practical skills, not academic theory |
-| **Dev Partnerships** | Build AI products for trades together |
-
-### Who This Is For
-
-- **Contractors & Fabricators** — Bidding, scheduling, safety, documentation
-- **Small Business Owners** — HR, operations, customer automation
-- **Trades & Service Businesses** — Quoting, dispatch, inventory
-- **Developers for the Trades** — Build AI products for blue-collar industries
-- **Anyone Who Builds Real Things** — If you're tired of generic software
-
-### The Difference
-
-> **"I don't sell software I wouldn't use myself. Every solution is based on systems running in production at my own company."**
+ideal_clients:
+  - Contractors & Fabricators
+  - Small Business Owners
+  - Trades & Service Businesses
+  - Developers for the Trades
+```
 
 <div align="center">
 
-<a href="https://structupath.ai">
-  <img src="https://img.shields.io/badge/GET%20STARTED-F97316?style=for-the-badge&logo=lightning&logoColor=FFFFFF"/>
-</a>
+> **"I don't sell software I wouldn't use myself."**
 
 </div>
 
 ---
 
+## `> git log --oneline --graph`
+
 <div align="center">
 
-## Let's Connect
+<!-- GitHub Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Steel-tech&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=238636&icon_color=238636&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Steel-tech&theme=github-dark-blue&hide_border=true&background=0d1117&ring=238636&fire=F97316&currStreakLabel=238636"/>
+
+<br/>
+
+<!-- Activity Graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Steel-tech&bg_color=0d1117&color=58A6FF&line=238636&point=F97316&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+## `> netstat -tulpn | grep LISTEN`
+
+<div align="center">
 
 <a href="https://structupath.ai">
   <img src="https://img.shields.io/badge/STRUCTUPATH.AI-F97316?style=for-the-badge&logo=rocket&logoColor=FFFFFF"/>
@@ -395,18 +642,32 @@ Now through **StructuPath.AI**, I'm helping others build the same.
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
 <a href="https://github.com/Steel-tech">
-  <img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
 <br/><br/>
 
-**"I don't build software to impress — I build it to survive. Every app runs my company."**
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  "I don't build software to impress — I build it to survive."              ║
+║                                                                            ║
+║   Every app runs my company. Every system is battle-tested.                ║
+║   Real scars. Real tears. Real solutions.                                  ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Steel-tech&style=flat-square&color=F97316&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Steel-tech&style=for-the-badge&color=238636&label=PROFILE+VIEWS)
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Steel-tech/Steel-tech/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Steel-tech/Steel-tech/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Steel-tech/Steel-tech/output/github-contribution-grid-snake.svg"/>
+</picture>
 
 </div>
 
-<!-- Clean Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=100&section=footer"/>
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=120&section=footer"/>
