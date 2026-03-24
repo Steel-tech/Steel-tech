@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=238636&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%8F%AD+Building+Production+AI+for+the+Trades+Since+2020;%F0%9F%A4%96+Multi-Agent+Systems+%7C+Claude+Agent+SDK;%E2%9A%A1+30%2B+Active+Repos+%7C+Real+Systems%2C+Real+Money" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=238636&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%A4%96+Multi-Agent+Systems+%7C+Claude+Agent+SDK+%7C+Pi.dev;%E2%9A%A1+30%2B+Active+Repos+%7C+Real+Systems%2C+Real+Money" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -13,6 +13,7 @@
 <!-- Status Badges -->
 <img src="https://img.shields.io/badge/STATUS-SHIPPING%20DAILY-238636?style=for-the-badge&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/STACK-CLAUDE%20AGENT%20SDK-7C3AED?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/EDITOR-PI.DEV-58A6FF?style=for-the-badge&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/DOMAIN-STEEL%20%2F%20CONSTRUCTION-F97316?style=for-the-badge&labelColor=0d1117"/>
 
 <br/><br/>
@@ -548,7 +549,7 @@ Remote control of Claude Code agents via Telegram and GitHub. Full observability
 ```bash
 ● current-focus.service - Active Development Priorities
    Loaded: loaded (/etc/systemd/system/current-focus.service; enabled)
-   Active: active (running) since 2020; 6 years ago
+   Active: active (running)
 
    ├─ steelcfo.service       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ AI CFO Platform  [ACTIVE]
    ├─ ironforge.service       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ Ironworker AI    [ACTIVE]
