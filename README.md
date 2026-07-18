@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=238636&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%A4%96+Multi-Agent+Systems+%7C+Claude+Agent+SDK+%7C+Pi.dev;%E2%9A%A1+75%2B+Repos+%7C+Real+Systems%2C+Real+Money" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=238636&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%A4%96+Multi-Agent+Systems+%7C+Claude+Agent+SDK+%7C+Pi.dev;%E2%9A%A1+50%2B+Repos+%7C+Real+Systems%2C+Real+Money" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -37,7 +37,7 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center"><b>75+</b><br/><sub>Repos</sub></td>
+      <td align="center"><b>50+</b><br/><sub>Repos</sub></td>
       <td align="center"><b>8+</b><br/><sub>AI Agent Systems</sub></td>
       <td align="center"><b>8,554+</b><br/><sub>Documents Indexed</sub></td>
       <td align="center"><b>3</b><br/><sub>Chrome Extensions</sub></td>
