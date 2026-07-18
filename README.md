@@ -69,8 +69,6 @@ philosophy: |
 
 current_focus:
   - Flawless Hub: Enterprise construction management platform running FSW daily
-  - SteelCFO: AI-powered financial command center for steel contractors
-  - IronForge: AI wizard helping ironworkers start contracting businesses
   - Steel Pulse: Structural steel estimating platform (Turborepo monorepo)
   - SteelMind v2: Next-gen multi-agent steel bidding system
   - DGX AI Lab: On-premise AI infrastructure (NVIDIA DGX)
@@ -553,8 +551,6 @@ Remote control of Claude Code agents via Telegram and GitHub. Full observability
    Active: active (running)
 
    ├─ flawless-hub.service    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ Construction Mgmt [PRODUCTION]
-   ├─ steelcfo.service       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ AI CFO Platform  [ACTIVE]
-   ├─ ironforge.service       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ Ironworker AI    [ACTIVE]
    ├─ steel-pulse.service     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ Estimating SaaS  [ACTIVE]
    ├─ steelmind-v2.service    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ Multi-Agent Bids [ACTIVE]
    ├─ structupath.service     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ AI Consulting    [PRODUCTION]
