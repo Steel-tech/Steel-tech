@@ -551,11 +551,11 @@ Remote control of Claude Code agents via Telegram and GitHub. Full observability
    Active: active (running)
 
    ├─ flawless-hub.service    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ Construction Mgmt [PRODUCTION]
-   ├─ steel-pulse.service     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ Estimating SaaS  [ACTIVE]
-   ├─ steelmind-v2.service    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ Multi-Agent Bids [ACTIVE]
-   ├─ structupath.service     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ AI Consulting    [PRODUCTION]
-   ├─ dgx-lab.service         ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ Local LLMs       [PRODUCTION]
-   └─ fsw-apps.service        ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ Daily Ops        [PRODUCTION]
+   ├─ steel-pulse.service     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ Estimating SaaS   [ACTIVE]
+   ├─ steelmind-v2.service    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ Multi-Agent Bids  [ACTIVE]
+   ├─ structupath.service     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ AI Consulting     [PRODUCTION]
+   ├─ dgx-lab.service         ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ Local LLMs        [PRODUCTION]
+   └─ fsw-apps.service        ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ Daily Ops         [PRODUCTION]
 ```
 
 ---
