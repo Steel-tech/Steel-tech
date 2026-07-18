@@ -68,6 +68,7 @@ philosophy: |
   Real scars. Real tears. Real solutions.
 
 current_focus:
+  - Flawless Hub: Enterprise construction management platform running FSW daily
   - SteelCFO: AI-powered financial command center for steel contractors
   - IronForge: AI wizard helping ironworkers start contracting businesses
   - Steel Pulse: Structural steel estimating platform (Turborepo monorepo)
@@ -551,6 +552,7 @@ Remote control of Claude Code agents via Telegram and GitHub. Full observability
    Loaded: loaded (/etc/systemd/system/current-focus.service; enabled)
    Active: active (running)
 
+   ├─ flawless-hub.service    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ Construction Mgmt [PRODUCTION]
    ├─ steelcfo.service       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ AI CFO Platform  [ACTIVE]
    ├─ ironforge.service       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ Ironworker AI    [ACTIVE]
    ├─ steel-pulse.service     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ Estimating SaaS  [ACTIVE]
