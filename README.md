@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=238636&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%A4%96+Multi-Agent+Systems+%7C+Claude+Agent+SDK+%7C+Pi.dev;%E2%9A%A1+30%2B+Active+Repos+%7C+Real+Systems%2C+Real+Money" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=238636&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%A4%96+Multi-Agent+Systems+%7C+Claude+Agent+SDK+%7C+Pi.dev;%E2%9A%A1+75%2B+Repos+%7C+Real+Systems%2C+Real+Money" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -13,7 +13,7 @@
 <!-- Status Badges -->
 <img src="https://img.shields.io/badge/STATUS-SHIPPING%20DAILY-238636?style=for-the-badge&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/STACK-CLAUDE%20AGENT%20SDK-7C3AED?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/EDITOR-PI.DEV-58A6FF?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/EDITOR-PI.DEV%20%2F%20DOOM%20EMACS-7F5AB6?style=for-the-badge&logo=gnuemacs&logoColor=FFFFFF&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/DOMAIN-STEEL%20%2F%20CONSTRUCTION-F97316?style=for-the-badge&labelColor=0d1117"/>
 
 <br/><br/>
@@ -37,8 +37,8 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center"><b>30+</b><br/><sub>Active Repos</sub></td>
-      <td align="center"><b>7+</b><br/><sub>AI Agent Systems</sub></td>
+      <td align="center"><b>75+</b><br/><sub>Repos</sub></td>
+      <td align="center"><b>8+</b><br/><sub>AI Agent Systems</sub></td>
       <td align="center"><b>8,554+</b><br/><sub>Documents Indexed</sub></td>
       <td align="center"><b>3</b><br/><sub>Chrome Extensions</sub></td>
       <td align="center"><b>5+</b><br/><sub>Production Apps</sub></td>
@@ -68,6 +68,7 @@ philosophy: |
   Real scars. Real tears. Real solutions.
 
 current_focus:
+  - Steel Estimator Agent: Email → priced steel bid orchestrator (AgentMail)
   - SteelCFO: AI-powered financial command center for steel contractors
   - IronForge: AI wizard helping ironworkers start contracting businesses
   - Steel Pulse: Structural steel estimating platform (Turborepo monorepo)
@@ -95,7 +96,7 @@ current_focus:
 <br/>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,aws,cloudflare,vscode,neovim&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,aws,cloudflare,vscode,neovim,emacs&theme=dark&perline=9" />
 </a>
 
 </div>
@@ -109,7 +110,7 @@ current_focus:
 
 | Technology | Usage | Status |
 |:---:|:---:|:---:|
-| ![Claude](https://img.shields.io/badge/Claude%20AI-191919?style=flat-square&logo=anthropic&logoColor=white) | Primary LLM (Opus 4 / Sonnet 4) | `production` |
+| ![Claude](https://img.shields.io/badge/Claude%20AI-191919?style=flat-square&logo=anthropic&logoColor=white) | Primary LLM (Opus 4.8 / Sonnet 5) | `production` |
 | ![Claude SDK](https://img.shields.io/badge/Claude%20Agent%20SDK-191919?style=flat-square&logo=anthropic&logoColor=white) | Multi-Agent Orchestration | `production` |
 | ![SAFLA](https://img.shields.io/badge/SAFLA-7C3AED?style=flat-square&logo=brain&logoColor=white) | Neural Memory System | `production` |
 | ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square&logo=databricks&logoColor=white) | RAG Systems | `production` |
@@ -376,6 +377,35 @@ Cost:           $0 per query
 </tr>
 </table>
 
+<table>
+<tr>
+<td valign="top">
+
+#### <img src="https://img.shields.io/badge/-STEEL%20ESTIMATOR%20AGENT-58A6FF?style=flat-square"/> Email → Priced Bid Orchestrator
+
+> An agent that lives in an inbox: polls RFQ emails, routes them to bid runs, and drives them toward a priced steel proposal — end to end.
+
+**Pipeline:**
+```
+Intake:     Poll inbox (AgentMail), triage & route to runs
+Runs:       Per-project bid workspace on disk
+Estimate:   Takeoff → pricing → proposal drafting
+Channels:   agentmail | handoff modes
+Status:     🟢 ACTIVE DEVELOPMENT
+```
+
+**Capabilities:**
+- `[x]` AgentMail inbox integration
+- `[x]` Bun CLI (`intake` / `new` / `status`)
+- `[x]` Fully tested against a fake MailApi — no network in tests
+- `[x]` Secrets kept out of code, runs, and logs
+
+**Stack:** `TypeScript` `Bun` `AgentMail` &nbsp;·&nbsp; _private repo_
+
+</td>
+</tr>
+</table>
+
 </details>
 
 ---
@@ -551,6 +581,7 @@ Remote control of Claude Code agents via Telegram and GitHub. Full observability
    Loaded: loaded (/etc/systemd/system/current-focus.service; enabled)
    Active: active (running)
 
+   ├─ steel-estimator.service ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ Email Bid Agent  [ACTIVE]
    ├─ steelcfo.service       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ AI CFO Platform  [ACTIVE]
    ├─ ironforge.service       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ Ironworker AI    [ACTIVE]
    ├─ steel-pulse.service     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ Estimating SaaS  [ACTIVE]
