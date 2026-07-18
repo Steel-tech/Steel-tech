@@ -68,7 +68,6 @@ philosophy: |
   Real scars. Real tears. Real solutions.
 
 current_focus:
-  - Steel Estimator Agent: Email → priced steel bid orchestrator (AgentMail)
   - SteelCFO: AI-powered financial command center for steel contractors
   - IronForge: AI wizard helping ironworkers start contracting businesses
   - Steel Pulse: Structural steel estimating platform (Turborepo monorepo)
@@ -377,35 +376,6 @@ Cost:           $0 per query
 </tr>
 </table>
 
-<table>
-<tr>
-<td valign="top">
-
-#### <img src="https://img.shields.io/badge/-STEEL%20ESTIMATOR%20AGENT-58A6FF?style=flat-square"/> Email → Priced Bid Orchestrator
-
-> An agent that lives in an inbox: polls RFQ emails, routes them to bid runs, and drives them toward a priced steel proposal — end to end.
-
-**Pipeline:**
-```
-Intake:     Poll inbox (AgentMail), triage & route to runs
-Runs:       Per-project bid workspace on disk
-Estimate:   Takeoff → pricing → proposal drafting
-Channels:   agentmail | handoff modes
-Status:     🟢 ACTIVE DEVELOPMENT
-```
-
-**Capabilities:**
-- `[x]` AgentMail inbox integration
-- `[x]` Bun CLI (`intake` / `new` / `status`)
-- `[x]` Fully tested against a fake MailApi — no network in tests
-- `[x]` Secrets kept out of code, runs, and logs
-
-**Stack:** `TypeScript` `Bun` `AgentMail` &nbsp;·&nbsp; _private repo_
-
-</td>
-</tr>
-</table>
-
 </details>
 
 ---
@@ -581,7 +551,6 @@ Remote control of Claude Code agents via Telegram and GitHub. Full observability
    Loaded: loaded (/etc/systemd/system/current-focus.service; enabled)
    Active: active (running)
 
-   ├─ steel-estimator.service ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ Email Bid Agent  [ACTIVE]
    ├─ steelcfo.service       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ AI CFO Platform  [ACTIVE]
    ├─ ironforge.service       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ Ironworker AI    [ACTIVE]
    ├─ steel-pulse.service     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ Estimating SaaS  [ACTIVE]
